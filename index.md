@@ -1,22 +1,24 @@
 ---
 layout: default
 ---
+## Overview
 
 The project initiatives for 2019 for Bhumjaithai Party administration.
-# Thailand Medical Tourism
 
-## Purposes
+## Thailand Medical Tourism
 
-## Strategies
+#### Purposes
 
-## Implementations
+#### Strategies
 
-# Thailand Emergency Medical Services (TEMS)
-## Industrial TEMS
-## Tourist EMS
+#### Implementations
 
-## Purposes
+## Thailand Emergency Medical Services (TEMS)
+### Industrial TEMS
+### Tourist EMS
 
-## Strategies
+#### Purposes
 
-## Implementations
+#### Strategies
+
+#### Implementations
