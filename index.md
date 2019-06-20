@@ -2,6 +2,7 @@
 layout: default
 ---
 
+The project initiatives for 2019 for Bhumjaithai Party administration.
 # Thailand Medical Tourism
 
 ## Purposes
