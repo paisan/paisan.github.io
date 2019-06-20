@@ -2,9 +2,6 @@
 layout: default
 ---
 
-% Ministry of Public Health Initiatives
-
-
 # Thailand Medical Tourism
 
 ## Purposes
