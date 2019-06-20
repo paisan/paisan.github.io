@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
---------------------------------------
-Ministry of Public Health Initiatives
---------------------------------------
+
+% Ministry of Public Health Initiatives
+
 
 # Thailand Medical Tourism
 
