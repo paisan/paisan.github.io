@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-
+--------------------------------------
 Ministry of Public Health Initiatives
+--------------------------------------
 
 # Thailand Medical Tourism
+
 ## Purposes
 
 ## Strategies
@@ -12,8 +14,8 @@ Ministry of Public Health Initiatives
 ## Implementations
 
 # Thailand Emergency Medical Services (TEMS)
-
 ## Industrial TEMS
+## Tourist EMS
 
 ## Purposes
 
