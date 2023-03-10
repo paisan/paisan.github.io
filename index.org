@@ -1,0 +1,108 @@
+#+title: Paisan Khonjumpa Curricular Vitae
+#+author: Paisan Khonjumpa <pkhonjum@gmail.com>
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+*  Bio Data
+
+| Date of Birth: | 27th January 1972 |
+| Place of Birth:| Chiangmai, Thailand |
+| Nationality:   |Thai  |
+| Gender: | Male |
+| Marital Status: | Married and has a daughter |
+
+
+* Educations
+
+| 1992 - 1996 | *University of New England*, New South Wales, Australia |
+|			| B.Eng (Electronics & Communications Engineering) |
+|1997 		| *The Institution of Engineers-Australia* |
+|			| Grad MIEAust |
+| 1999 - 2001 	| *Chulalongkorn University*, Bangkok, Thailand |
+|			| M.B.A. (Management) |
+| 2002 - 2007 	| *National Institute of Development Administration*, Bangkok, Thailand |
+|			    | Ph.D. (Public Administration) Completed Course Work |
+| 2010 - 2011	| *King's Prajadipok's Institute*, Bangkok, Thailand |
+|			    | Certifacate (ASEAN Economic Studies) |
+| 2012 - 2013	| *King's Prajadipok's Institute*, Bangkok, Thailand |
+|			    | Advance Certificate (Public Economic Management) |
+
+* Work Experiences
+
+|  1996 - 1998	| *Hollywood International Co., Ltd.*, Bangkok, Thailand |
+|			    | Military Products Division |
+|			    | - Product Specialist |
+| 1998 - 1999	| *International Training Australia Pty, Ltd.*, Melbourne, Australia |
+|			    | 2-year contractual work for Ministry of Educations of Thailand   |
+|			| - Telecommunication Technology Trainer |
+| 1999 - 2001	| *Kistler Instrument Pty., Ltd.*, Singapore |
+|			| - Technical Support Engineer |
+|			| - Product Manager |
+|2002 - 2006	| *Pac-Rim International (Loxley Group)*, Bangkok, Thailand |
+|			| - Assistant Vice President |
+|			| *General Aviation Co., Ltd.* |
+|			| /Bell Helicopter Aircraft & Spare Parts Division/     |
+|			| - Helicopter Sales Manager |
+|2007 - 2015	| *Bangkok Dusit Medical Services PCL*, Bangkok, Thailand |
+|			| /Bangkok Hospital Head Quardter (Soi Soon -Vijai) Director Office/     |
+|2007			| - Office Manager |
+|			| /Aviation Medicine Department/     |
+|2008 -2015	| - Flight Operations Manager |
+|			| /Marketing Division/     |
+|2009 - 2015	| - Senior Corporate & Insurance Manager  |
+|2015 - 2022	| *Sino-Thai Engineering & Construction PCL*, Bangkok, Thailand |
+|			| - Advisor to the President |
+|			| *AC Aviation Co., Ltd.* |
+|2015 - 2022	| - Board of Director Member |
+|2020 - 2022	| - General Manager (Air Operator Certificate Holder Accountable Manager)       | 
+|2015 - 2019	| *Samui R & D Co., Ltd.* |
+|			| - Board of Director Member & Executive Director |
+|2019 - 2022	| *Siam Premises Co., Ltd.* |
+|			| - Board of Director Member |
+
+
+* Skills & Experiences
+
+** Programming (Mostly on Unix & MacOS): 
+- C/C++ 
+- Go 
+- Rust
+- Emacs LISP
+- LaTeX
+
+** Technical Support and Sales & Marketing Management Experiences: 
+- In industrial instrumentation R&D and production quality assurance 
+- In healthcare for Corporate & Insurance segments with great familiar in PPO[fn:PPO: PPO abbreviates for Preferred Provider Organzations]
+- Strategic pricing
+- Healthcare service provision strategies for;
+  -  Occupational Medicine compliances for SHE/OSHA, Offshore work regulations
+  - Aviation Medicine for ICAO regulatory compliances for airline personnel and passengers
+  - Corporate healthcare services; annual medical checkup, pre-employment screening, company OPD/IPD managed care/pricing, return-to-work examination, narcotics & drug abuses, health promotion and office wellness programs including vitality partnerships with insurances
+
+
+** Helicopter Sales & Technical/Operational Logistics Management: 
+- Military & Police: Bell UH-1H, Bell 212, Bell 412/EP 
+-  Civilian: Airbus (Eurocopter) EC145s 
+
+
+** Aeromedical Transport & Emergency Medical Services: 
+- Intensive training and real-life operational experiences in Aircraft & HEMS [fn:HEMS:HEMS abbreviates for Helicopter Emergency Medical Services]  
+- Experienced with EURAMI & CAMTS Accreditation & CAAT Compliances
+
+** Aircrafts Management: 
+-  Hawker 850XP, Embraer Legacy 600 (EMB-135BJ) 
+-  Familiar with Civil Aviation Authority of Thailand Re-Certification Regulations[fn:AOC-R:AOC-R is highy stringent regulatory requirement for all air operators in Thailand] 
+  Was responsible as Accountable Manager for AOC[fn:AOC: AOC abbreviates for Air Operator Certificate] AOL[fn:AOL: AOL abbreviates for Air Operator License License Holder]
+  
+* Contact Address
+
+*Permanent & Current*
+
+152/75 Similan Reef Village, \\
+Pattana Chonabot 4 Road, \\ 
+Klong Song Ton Noon Subdistrict, \\
+Ladkrabang District, \\ 
+Bangkok 10520 Thailand \\  
+
+Mobile Phone number: +66 (0)81 889 3482 
+
+E-mail:	pkhonjum@gmail.com 
