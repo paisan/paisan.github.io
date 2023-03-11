@@ -3,7 +3,7 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
 #+NAME: Paisan Khonjumpa
-#+ATTR_HTML: :width 200px
+#+ATTR_HTML: :width 120px
 [[./paisan_photo.png]]
 
 
