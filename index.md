@@ -1,21 +1,21 @@
 
 # Table of Contents
 
-1.  [Bio Data](#org2150141)
-2.  [Educations](#org0d23d17)
-3.  [Work Experiences](#orgacf90ba)
-4.  [Skills & Experiences](#org64c50bf)
-    1.  [Programming (Mostly on Unix & MacOS):](#orgc9a4897)
-    2.  [Technical Support and Sales & Marketing Management Experiences:](#orgd509dc3)
-    3.  [Helicopter Sales & Technical/Operational Logistics Management:](#org41fe8e0)
-    4.  [Aeromedical Transport & Emergency Medical Services:](#org4d73ff9)
-    5.  [Aircrafts Management:](#orgd468732)
-5.  [Contact Address](#org606c2d2)
+1.  [Bio Data](#org1be0648)
+2.  [Educations](#orgb7f3704)
+3.  [Work Experiences](#org5a88a48)
+4.  [Skills & Experiences](#orga3c182f)
+    1.  [Programming (Mostly on Unix & MacOS):](#org3709029)
+    2.  [Technical Support and Sales & Marketing Management Experiences:](#orgfd71fc9)
+    3.  [Helicopter Sales & Technical/Operational Logistics Management:](#org8b6ec34)
+    4.  [Aeromedical Transport & Emergency Medical Services:](#orgf52d852)
+    5.  [Aircrafts Management:](#org94e7def)
+5.  [Contact Address](#orgbb80ad5)
 
 ![img](./paisan_photo.png)
 
 
-<a id="org2150141"></a>
+<a id="org1be0648"></a>
 
 # Bio Data
 
@@ -60,7 +60,7 @@
 </table>
 
 
-<a id="org0d23d17"></a>
+<a id="orgb7f3704"></a>
 
 # Educations
 
@@ -147,7 +147,7 @@
 </table>
 
 
-<a id="orgacf90ba"></a>
+<a id="org5a88a48"></a>
 
 # Work Experiences
 
@@ -252,7 +252,7 @@
 
 <tr>
 <td class="org-left">&#xa0;</td>
-<td class="org-left"><i>Bangkok Hospital Head Quardter (Soi Soon -Vijai) Director Office</i></td>
+<td class="org-left"><i>Bangkok Hospital Headquarter (Soi Soon -Vijai) Director Office</i></td>
 </tr>
 
 
@@ -342,12 +342,12 @@
 </table>
 
 
-<a id="org64c50bf"></a>
+<a id="orga3c182f"></a>
 
 # Skills & Experiences
 
 
-<a id="orgc9a4897"></a>
+<a id="org3709029"></a>
 
 ## Programming (Mostly on Unix & MacOS):
 
@@ -358,7 +358,7 @@
 -   LaTeX
 
 
-<a id="orgd509dc3"></a>
+<a id="orgfd71fc9"></a>
 
 ## Technical Support and Sales & Marketing Management Experiences:
 
@@ -371,7 +371,7 @@
     -   Corporate healthcare services; annual medical checkup, pre-employment screening, company OPD/IPD managed care/pricing, return-to-work examination, narcotics & drug abuses, health promotion and office wellness programs including vitality partnerships with insurances
 
 
-<a id="org41fe8e0"></a>
+<a id="org8b6ec34"></a>
 
 ## Helicopter Sales & Technical/Operational Logistics Management:
 
@@ -379,7 +379,7 @@
 -   Civilian: Airbus (Eurocopter) EC145s
 
 
-<a id="org4d73ff9"></a>
+<a id="orgf52d852"></a>
 
 ## Aeromedical Transport & Emergency Medical Services:
 
@@ -387,7 +387,7 @@
 -   Experienced with EURAMI & CAMTS Accreditation & CAAT Compliances
 
 
-<a id="orgd468732"></a>
+<a id="org94e7def"></a>
 
 ## Aircrafts Management:
 
@@ -396,7 +396,7 @@
     Was responsible as Accountable Manager for AOC<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> AOL<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>
 
 
-<a id="org606c2d2"></a>
+<a id="orgbb80ad5"></a>
 
 # Contact Address
 
