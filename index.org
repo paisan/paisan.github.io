@@ -2,6 +2,10 @@
 #+author: Paisan Khonjumpa <pkhonjum@gmail.com>
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
 
+#+NAME: Paisan Khonjumpa
+#+ATTR_HTML: :width 200px
+[[./paisan_photo.png]]
+
 *  Bio Data
 
 | Date of Birth: | 27th January 1972 |
