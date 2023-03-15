@@ -75,6 +75,7 @@ Company manuals typically include the following.
 - Certified Flight Doctors & Flight Nurses
 - Maintenance Engineers
 - Ground Operation Crew
+- General support & administration
 
 * Financial Requirement
 Details to be provided.
