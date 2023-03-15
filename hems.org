@@ -69,13 +69,10 @@ Company manuals typically include the following.
 
 ** Human Resources
 
-*** Pilots
-
-*** Flight Doctors & Flight Nurses
-
-*** Maintenance Engineers
-
-*** Operational Crew
+- Pilots
+- Certified Flight Doctors & Flight Nurses
+- Maintenance Engineers
+- Ground Operation Crew
 
 * Financial Requirement
 s

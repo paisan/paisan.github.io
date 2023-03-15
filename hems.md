@@ -1,33 +1,29 @@
 
 # Table of Contents
 
-1.  [Introduction](#org99355ab)
-    1.  [Service Area Coverage](#org1ad7ff9)
-    2.  [Scope of Services](#orgbf90f02)
-    3.  [Service Sponsorship](#org9a8b116)
-2.  [Regulatory Requirements](#org155b4e6)
-    1.  [Air Operator License (AOL)](#org71634b4)
-    2.  [Air Operator Certificate (AOC)](#org77a978b)
-    3.  [AOC Mandatory Manuals](#org37b4ece)
-3.  [Operational Requirements](#org8d29966)
-    1.  [Helicopter](#org98d6310)
-    2.  [Medical Equipments](#orga62d598)
-    3.  [Heliport/Helipad & Airpoort/Airfield](#orgc2022ca)
-    4.  [Human Resources](#org7840698)
-        1.  [Pilots](#orge8f0fe7)
-        2.  [Flight Doctors & Flight Nurses](#orgbc23f8b)
-        3.  [Maintenance Engineers](#orge345ca1)
-        4.  [Operational Crew](#org96a4b39)
-4.  [Financial Requirement](#org4ea9cbe)
+1.  [Introduction](#orgb750de3)
+    1.  [Service Area Coverage](#org25ed845)
+    2.  [Scope of Services](#org95dc49e)
+    3.  [Service Sponsorship](#org907d1c0)
+2.  [Regulatory Requirements](#org7e6c57e)
+    1.  [Air Operator License (AOL)](#orgdf77701)
+    2.  [Air Operator Certificate (AOC)](#org980bb01)
+    3.  [AOC Mandatory Manuals](#orga0586c7)
+3.  [Operational Requirements](#orged46a11)
+    1.  [Helicopter](#org219e322)
+    2.  [Medical Equipments](#orgce32617)
+    3.  [Heliport/Helipad & Airpoort/Airfield](#org55456e1)
+    4.  [Human Resources](#org0362029)
+4.  [Financial Requirement](#org7cc0d94)
 
 
 
-<a id="org99355ab"></a>
+<a id="orgb750de3"></a>
 
 # Introduction
 
 
-<a id="org1ad7ff9"></a>
+<a id="org25ed845"></a>
 
 ## Service Area Coverage
 
@@ -36,7 +32,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
 ![img](./eec_photo1.jpg)
 
 
-<a id="orgbf90f02"></a>
+<a id="org95dc49e"></a>
 
 ## Scope of Services
 
@@ -47,7 +43,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
     -   Seven days a week
 
 
-<a id="org9a8b116"></a>
+<a id="org907d1c0"></a>
 
 ## Service Sponsorship
 
@@ -57,12 +53,12 @@ About EEC of Thailand
 <https://www.eeco.or.th/en/vision-mission> 
 
 
-<a id="org155b4e6"></a>
+<a id="org7e6c57e"></a>
 
 # Regulatory Requirements
 
 
-<a id="org71634b4"></a>
+<a id="orgdf77701"></a>
 
 ## Air Operator License (AOL)
 
@@ -71,7 +67,7 @@ An aviation business plan with clear commercial objectives with specific aircraf
 Should the AOL be granteed, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
 
 
-<a id="org77a978b"></a>
+<a id="org980bb01"></a>
 
 ## Air Operator Certificate (AOC)
 
@@ -82,7 +78,7 @@ The AOL holder is required to have a designated Accountable Manager with the hig
 The company need to structure the company oorganization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
 
 
-<a id="org37b4ece"></a>
+<a id="orga0586c7"></a>
 
 ## AOC Mandatory Manuals
 
@@ -101,52 +97,37 @@ Company manuals typically include the following.
 -   Aviation Security Training Program Manual (ASTP)
 
 
-<a id="org8d29966"></a>
+<a id="orged46a11"></a>
 
 # Operational Requirements
 
 
-<a id="org98d6310"></a>
+<a id="org219e322"></a>
 
 ## Helicopter
 
 
-<a id="orga62d598"></a>
+<a id="orgce32617"></a>
 
 ## Medical Equipments
 
 
-<a id="orgc2022ca"></a>
+<a id="org55456e1"></a>
 
 ## Heliport/Helipad & Airpoort/Airfield
 
 
-<a id="org7840698"></a>
+<a id="org0362029"></a>
 
 ## Human Resources
 
-
-<a id="orge8f0fe7"></a>
-
-### Pilots
-
-
-<a id="orgbc23f8b"></a>
-
-### Flight Doctors & Flight Nurses
+-   Pilots
+-   Certified Flight Doctors & Flight Nurses
+-   Maintenance Engineers
+-   Ground Operation Crew
 
 
-<a id="orge345ca1"></a>
-
-### Maintenance Engineers
-
-
-<a id="org96a4b39"></a>
-
-### Operational Crew
-
-
-<a id="org4ea9cbe"></a>
+<a id="org7cc0d94"></a>
 
 # Financial Requirement
 
