@@ -56,12 +56,14 @@ Company manuals typically include the following.
 
 * Operational Requirements
 
+** Helicopters & Medical Equipment
 
-** Helicopters
-
-** Medical Equipments
 
 ** Heliport/Helipad & Airpoort/Airfield
+
+- Helipad Establishment & Database
+
+** HEMS Main-base & Command Center
 
 ** Human Resources
 
