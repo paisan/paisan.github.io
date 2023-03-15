@@ -7,7 +7,9 @@
 
 ** Service Area Coverage
 
-Eastern Economic Corridor (EEC) Special Economic Zone
+Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
+#+ATTR_HTML: :width 450px
+[[./eec_photo1.jpg]]
 
 ** Scope of Services
 
@@ -18,7 +20,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone
   - Seven days a week
 
 ** Service Sponsorship
-Governmennt Contract with EEC Office
+Governmennt Contract with Eastern Economic Corridor (EEC) Office of Thailand
 
 * Regulatory Requirements
 

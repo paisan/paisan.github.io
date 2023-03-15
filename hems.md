@@ -1,51 +1,53 @@
 
 # Table of Contents
 
-1.  [Introduction](#org9e7a028)
-    1.  [Service Area Coverage](#org7bc354b)
-    2.  [Scope of Services](#orgcb54601)
-    3.  [Service Sponsorship](#org153d22e)
-2.  [Regulatory Requirements](#org8882ff5)
-    1.  [Air Operator License (AOL)](#org915e702)
-    2.  [Air Operator Certificate (AOC)](#org149f08a)
-    3.  [AOC Mandatory Manuals](#orga73976d)
-        1.  [Security Program Manual (SPM)](#orga63553a)
-        2.  [Safety Management System Manual (SMSM)](#org92331e6)
-        3.  [Quality Assurance Manual (QAM)](#org2d2f45f)
-        4.  [Operations Manual (OM)](#org916dfb6)
-        5.  [Minimum Equipment List (MEL)](#orgd3ba87f)
-        6.  [Maintenance Program (MP)](#orga8a1689)
-        7.  [Global Reporting Format Manual (GRFM)](#orgfaa9a15)
-        8.  [General Maintenance Manual (GMM)](#orgef07a9a)
-        9.  [Flight Dispatch Manual (FDM)](#orgad59380)
-        10. [Emergency Manual (EM)](#org45a52cd)
-        11. [Aviation Security Training Program Manual (ASTP)](#org35d09b6)
-3.  [Operational Requirements](#org4dcc659)
-    1.  [Helicopter](#org9cd7507)
-    2.  [Medical Equipments](#orgd477b16)
-    3.  [Heliport/Helipad & Airpoort/Airfield](#org6e92620)
-    4.  [Human Resources](#org910e967)
-        1.  [Pilots](#org7c65533)
-        2.  [Flight Doctors & Flight Nurses](#org60b1079)
-        3.  [Maintenance Engineers](#orgde1be6f)
-        4.  [Operational Crew](#org456581f)
-4.  [Financial Requirement](#org4e2c1e5)
+1.  [Introduction](#org4b303e9)
+    1.  [Service Area Coverage](#org68e2b5c)
+    2.  [Scope of Services](#org418037b)
+    3.  [Service Sponsorship](#orgb8f8228)
+2.  [Regulatory Requirements](#org6f672f0)
+    1.  [Air Operator License (AOL)](#org1d16f9f)
+    2.  [Air Operator Certificate (AOC)](#org3a3ce2b)
+    3.  [AOC Mandatory Manuals](#orgf77d5ad)
+        1.  [Security Program Manual (SPM)](#org2120d96)
+        2.  [Safety Management System Manual (SMSM)](#orgf1db1be)
+        3.  [Quality Assurance Manual (QAM)](#org9f59433)
+        4.  [Operations Manual (OM)](#org4dbbb83)
+        5.  [Minimum Equipment List (MEL)](#org186262f)
+        6.  [Maintenance Program (MP)](#orgf1dbc81)
+        7.  [Global Reporting Format Manual (GRFM)](#org5117177)
+        8.  [General Maintenance Manual (GMM)](#org5851cf0)
+        9.  [Flight Dispatch Manual (FDM)](#orgaebea0b)
+        10. [Emergency Manual (EM)](#org71429d3)
+        11. [Aviation Security Training Program Manual (ASTP)](#orgf624874)
+3.  [Operational Requirements](#org405b336)
+    1.  [Helicopter](#org1d38cab)
+    2.  [Medical Equipments](#org906ec7a)
+    3.  [Heliport/Helipad & Airpoort/Airfield](#org781ba96)
+    4.  [Human Resources](#orgc2c28e9)
+        1.  [Pilots](#orgdcdedec)
+        2.  [Flight Doctors & Flight Nurses](#org0cdce6c)
+        3.  [Maintenance Engineers](#org8f8099c)
+        4.  [Operational Crew](#orga9bb505)
+4.  [Financial Requirement](#orgde3dcc7)
 
 
 
-<a id="org9e7a028"></a>
+<a id="org4b303e9"></a>
 
 # Introduction
 
 
-<a id="org7bc354b"></a>
+<a id="org68e2b5c"></a>
 
 ## Service Area Coverage
 
-Eastern Economic Corridor (EEC) Special Economic Zone
+Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
+
+![img](./eec_photo1.jpg)
 
 
-<a id="orgcb54601"></a>
+<a id="org418037b"></a>
 
 ## Scope of Services
 
@@ -56,19 +58,19 @@ Eastern Economic Corridor (EEC) Special Economic Zone
     -   Seven days a week
 
 
-<a id="org153d22e"></a>
+<a id="orgb8f8228"></a>
 
 ## Service Sponsorship
 
-Governmennt Contract with EEC Office
+Governmennt Contract with Eastern Economic Corridor (EEC) Office of Thailand
 
 
-<a id="org8882ff5"></a>
+<a id="org6f672f0"></a>
 
 # Regulatory Requirements
 
 
-<a id="org915e702"></a>
+<a id="org1d16f9f"></a>
 
 ## Air Operator License (AOL)
 
@@ -77,7 +79,7 @@ An aviation business plan with clear commercial objectives with specific aircraf
 Should the AOL be granteed, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
 
 
-<a id="org149f08a"></a>
+<a id="org3a3ce2b"></a>
 
 ## Air Operator Certificate (AOC)
 
@@ -88,114 +90,114 @@ The AOL holder is required to have a designated Accountable Manager with the hig
 The company need to structure the company oorganization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
 
 
-<a id="orga73976d"></a>
+<a id="orgf77d5ad"></a>
 
 ## AOC Mandatory Manuals
 
 Company manuals typically include the following.
 
 
-<a id="orga63553a"></a>
+<a id="org2120d96"></a>
 
 ### Security Program Manual (SPM)
 
 
-<a id="org92331e6"></a>
+<a id="orgf1db1be"></a>
 
 ### Safety Management System Manual (SMSM)
 
 
-<a id="org2d2f45f"></a>
+<a id="org9f59433"></a>
 
 ### Quality Assurance Manual (QAM)
 
 
-<a id="org916dfb6"></a>
+<a id="org4dbbb83"></a>
 
 ### Operations Manual (OM)
 
 
-<a id="orgd3ba87f"></a>
+<a id="org186262f"></a>
 
 ### Minimum Equipment List (MEL)
 
 
-<a id="orga8a1689"></a>
+<a id="orgf1dbc81"></a>
 
 ### Maintenance Program (MP)
 
 
-<a id="orgfaa9a15"></a>
+<a id="org5117177"></a>
 
 ### Global Reporting Format Manual (GRFM)
 
 
-<a id="orgef07a9a"></a>
+<a id="org5851cf0"></a>
 
 ### General Maintenance Manual (GMM)
 
 
-<a id="orgad59380"></a>
+<a id="orgaebea0b"></a>
 
 ### Flight Dispatch Manual (FDM)
 
 
-<a id="org45a52cd"></a>
+<a id="org71429d3"></a>
 
 ### Emergency Manual (EM)
 
 
-<a id="org35d09b6"></a>
+<a id="orgf624874"></a>
 
 ### Aviation Security Training Program Manual (ASTP)
 
 
-<a id="org4dcc659"></a>
+<a id="org405b336"></a>
 
 # Operational Requirements
 
 
-<a id="org9cd7507"></a>
+<a id="org1d38cab"></a>
 
 ## Helicopter
 
 
-<a id="orgd477b16"></a>
+<a id="org906ec7a"></a>
 
 ## Medical Equipments
 
 
-<a id="org6e92620"></a>
+<a id="org781ba96"></a>
 
 ## Heliport/Helipad & Airpoort/Airfield
 
 
-<a id="org910e967"></a>
+<a id="orgc2c28e9"></a>
 
 ## Human Resources
 
 
-<a id="org7c65533"></a>
+<a id="orgdcdedec"></a>
 
 ### Pilots
 
 
-<a id="org60b1079"></a>
+<a id="org0cdce6c"></a>
 
 ### Flight Doctors & Flight Nurses
 
 
-<a id="orgde1be6f"></a>
+<a id="org8f8099c"></a>
 
 ### Maintenance Engineers
 
 
-<a id="org456581f"></a>
+<a id="orga9bb505"></a>
 
 ### Operational Crew
 
 
-<a id="org4e2c1e5"></a>
+<a id="orgde3dcc7"></a>
 
 # Financial Requirement
 
