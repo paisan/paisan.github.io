@@ -57,13 +57,13 @@ Company manuals typically include the following.
 * Operational Requirements
 
 
-* Helicopters
+** Helicopters
 
-* Medical Equipments
+** Medical Equipments
 
-* Heliport/Helipad & Airpoort/Airfield
+** Heliport/Helipad & Airpoort/Airfield
 
-* Human Resources
+** Human Resources
 
 - Pilots
 - Certified Flight Doctors & Flight Nurses
