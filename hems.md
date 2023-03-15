@@ -1,33 +1,33 @@
 
 # Table of Contents
 
-1.  [Introduction](#orgec4b600)
-    1.  [Service Area Coverage](#org9c5a6da)
-    2.  [Scope of Services](#orga6fe940)
-    3.  [Service Sponsorship](#orge91e27a)
-2.  [Regulatory Requirements](#org12efa03)
-    1.  [Air Operator License (AOL)](#org4e32d7e)
-    2.  [Air Operator Certificate (AOC)](#org2a4c3cf)
-    3.  [AOC Mandatory Manuals](#orgcf9cd3d)
-3.  [Operational Requirements](#org66aacf3)
-    1.  [Helicopter](#orge8af71d)
-    2.  [Medical Equipments](#org187fe8f)
-    3.  [Heliport/Helipad & Airpoort/Airfield](#org27829fd)
-    4.  [Human Resources](#org205104a)
-        1.  [Pilots](#org5fca76e)
-        2.  [Flight Doctors & Flight Nurses](#orge9dab97)
-        3.  [Maintenance Engineers](#org846f36f)
-        4.  [Operational Crew](#org9448681)
-4.  [Financial Requirement](#orgc416525)
+1.  [Introduction](#org99355ab)
+    1.  [Service Area Coverage](#org1ad7ff9)
+    2.  [Scope of Services](#orgbf90f02)
+    3.  [Service Sponsorship](#org9a8b116)
+2.  [Regulatory Requirements](#org155b4e6)
+    1.  [Air Operator License (AOL)](#org71634b4)
+    2.  [Air Operator Certificate (AOC)](#org77a978b)
+    3.  [AOC Mandatory Manuals](#org37b4ece)
+3.  [Operational Requirements](#org8d29966)
+    1.  [Helicopter](#org98d6310)
+    2.  [Medical Equipments](#orga62d598)
+    3.  [Heliport/Helipad & Airpoort/Airfield](#orgc2022ca)
+    4.  [Human Resources](#org7840698)
+        1.  [Pilots](#orge8f0fe7)
+        2.  [Flight Doctors & Flight Nurses](#orgbc23f8b)
+        3.  [Maintenance Engineers](#orge345ca1)
+        4.  [Operational Crew](#org96a4b39)
+4.  [Financial Requirement](#org4ea9cbe)
 
 
 
-<a id="orgec4b600"></a>
+<a id="org99355ab"></a>
 
 # Introduction
 
 
-<a id="org9c5a6da"></a>
+<a id="org1ad7ff9"></a>
 
 ## Service Area Coverage
 
@@ -36,7 +36,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
 ![img](./eec_photo1.jpg)
 
 
-<a id="orga6fe940"></a>
+<a id="orgbf90f02"></a>
 
 ## Scope of Services
 
@@ -47,19 +47,22 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
     -   Seven days a week
 
 
-<a id="orge91e27a"></a>
+<a id="org9a8b116"></a>
 
 ## Service Sponsorship
 
 Governmennt Contract with Eastern Economic Corridor (EEC) Office of Thailand
 
+About EEC of Thailand 
+<https://www.eeco.or.th/en/vision-mission> 
 
-<a id="org12efa03"></a>
+
+<a id="org155b4e6"></a>
 
 # Regulatory Requirements
 
 
-<a id="org4e32d7e"></a>
+<a id="org71634b4"></a>
 
 ## Air Operator License (AOL)
 
@@ -68,7 +71,7 @@ An aviation business plan with clear commercial objectives with specific aircraf
 Should the AOL be granteed, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
 
 
-<a id="org2a4c3cf"></a>
+<a id="org77a978b"></a>
 
 ## Air Operator Certificate (AOC)
 
@@ -79,7 +82,7 @@ The AOL holder is required to have a designated Accountable Manager with the hig
 The company need to structure the company oorganization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
 
 
-<a id="orgcf9cd3d"></a>
+<a id="org37b4ece"></a>
 
 ## AOC Mandatory Manuals
 
@@ -98,52 +101,52 @@ Company manuals typically include the following.
 -   Aviation Security Training Program Manual (ASTP)
 
 
-<a id="org66aacf3"></a>
+<a id="org8d29966"></a>
 
 # Operational Requirements
 
 
-<a id="orge8af71d"></a>
+<a id="org98d6310"></a>
 
 ## Helicopter
 
 
-<a id="org187fe8f"></a>
+<a id="orga62d598"></a>
 
 ## Medical Equipments
 
 
-<a id="org27829fd"></a>
+<a id="orgc2022ca"></a>
 
 ## Heliport/Helipad & Airpoort/Airfield
 
 
-<a id="org205104a"></a>
+<a id="org7840698"></a>
 
 ## Human Resources
 
 
-<a id="org5fca76e"></a>
+<a id="orge8f0fe7"></a>
 
 ### Pilots
 
 
-<a id="orge9dab97"></a>
+<a id="orgbc23f8b"></a>
 
 ### Flight Doctors & Flight Nurses
 
 
-<a id="org846f36f"></a>
+<a id="orge345ca1"></a>
 
 ### Maintenance Engineers
 
 
-<a id="org9448681"></a>
+<a id="org96a4b39"></a>
 
 ### Operational Crew
 
 
-<a id="orgc416525"></a>
+<a id="org4ea9cbe"></a>
 
 # Financial Requirement
 
