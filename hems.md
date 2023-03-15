@@ -1,26 +1,26 @@
 
 # Table of Contents
 
-1.  [Service Area Coverage](#org020b216)
-2.  [Scope of Services](#orgc0a077f)
-3.  [Service Sponsorship](#orgd7b7bd3)
-4.  [Regulatory Requirements](#org115c619)
-    1.  [Air Operator License (AOL)](#orgdf55b0e)
-    2.  [Air Operator Certificate (AOC)](#org4928be7)
-    3.  [AOC Mandatory Manuals](#org71768eb)
-5.  [Operational Requirements](#org73cc4d4)
-    1.  [Helicopters & Medical Equipment](#org402e09a)
-        1.  [HEMS Medical Platform](#orgdc3328d)
-        2.  [Portable Airborne Medical Equippemts](#org144757d)
-    2.  [Heliport/Helipad & Airpoort/Airfield](#org50cf091)
-        1.  [Helipad Establishment & Management](#org9f40c72)
-    3.  [HEMS Main-base & Command Center](#orgf6e66eb)
-    4.  [Human Resources](#orga6b1941)
-6.  [Financial Requirement](#org3576997)
+1.  [Service Area Coverage](#org23e8992)
+2.  [Scope of Services](#org913ffff)
+3.  [Service Sponsorship](#org582beed)
+4.  [Regulatory Requirements](#orgb079997)
+    1.  [Air Operator License (AOL)](#org73b5135)
+    2.  [Air Operator Certificate (AOC)](#org102d9ae)
+    3.  [AOC Mandatory Manuals](#org4455e92)
+5.  [Operational Requirements](#org7ef306a)
+    1.  [Helicopters & Medical Equipment](#org3b40ac9)
+        1.  [HEMS Medical Platform](#org6f4ed75)
+        2.  [Portable Airborne Medical Equippemts](#org0e52cb4)
+    2.  [Heliport/Helipad & Airpoort/Airfield](#org6fd8958)
+        1.  [Helipad Establishment & Management](#orgf3e076b)
+    3.  [HEMS Main-base & Command Center](#orgdf78f3c)
+    4.  [Human Resources](#org0e5715b)
+6.  [Financial Requirement](#orgd689caf)
 
 
 
-<a id="org020b216"></a>
+<a id="org23e8992"></a>
 
 # Service Area Coverage
 
@@ -29,7 +29,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
 ![img](./eec_photo1.jpg)
 
 
-<a id="orgc0a077f"></a>
+<a id="org913ffff"></a>
 
 # Scope of Services
 
@@ -40,7 +40,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
     -   Seven days a week
 
 
-<a id="orgd7b7bd3"></a>
+<a id="org582beed"></a>
 
 # Service Sponsorship
 
@@ -50,12 +50,12 @@ About EEC of Thailand
 <https://www.eeco.or.th/en/vision-mission> 
 
 
-<a id="org115c619"></a>
+<a id="orgb079997"></a>
 
 # Regulatory Requirements
 
 
-<a id="orgdf55b0e"></a>
+<a id="org73b5135"></a>
 
 ## Air Operator License (AOL)
 
@@ -64,7 +64,7 @@ An aviation business plan with clear commercial objectives with specific aircraf
 Should the AOL be granteed, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
 
 
-<a id="org4928be7"></a>
+<a id="org102d9ae"></a>
 
 ## Air Operator Certificate (AOC)
 
@@ -75,7 +75,7 @@ The AOL holder is required to have a designated Accountable Manager with the hig
 The company need to structure the company oorganization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
 
 
-<a id="org71768eb"></a>
+<a id="org4455e92"></a>
 
 ## AOC Mandatory Manuals
 
@@ -94,32 +94,32 @@ Company manuals typically include the following.
 -   Aviation Security Training Program Manual (ASTP)
 
 
-<a id="org73cc4d4"></a>
+<a id="org7ef306a"></a>
 
 # Operational Requirements
 
 
-<a id="org402e09a"></a>
+<a id="org3b40ac9"></a>
 
 ## Helicopters & Medical Equipment
 
 
-<a id="orgdc3328d"></a>
+<a id="org6f4ed75"></a>
 
 ### HEMS Medical Platform
 
 
-<a id="org144757d"></a>
+<a id="org0e52cb4"></a>
 
 ### Portable Airborne Medical Equippemts
 
 
-<a id="org50cf091"></a>
+<a id="org6fd8958"></a>
 
 ## Heliport/Helipad & Airpoort/Airfield
 
 
-<a id="org9f40c72"></a>
+<a id="orgf3e076b"></a>
 
 ### Helipad Establishment & Management
 
@@ -127,12 +127,12 @@ Company manuals typically include the following.
 -   Helipad marshaller & ground operation support
 
 
-<a id="orgf6e66eb"></a>
+<a id="orgdf78f3c"></a>
 
 ## HEMS Main-base & Command Center
 
 
-<a id="orga6b1941"></a>
+<a id="org0e5715b"></a>
 
 ## Human Resources
 
@@ -142,7 +142,7 @@ Company manuals typically include the following.
 -   Ground Operation Crew
 
 
-<a id="org3576997"></a>
+<a id="orgd689caf"></a>
 
 # Financial Requirement
 
@@ -151,4 +151,4 @@ Details to be provided.
 
 # Footnotes
 
-<sup><a id="fn.1" href="#fnr.1">1</a></sup> Helicopter equipped with medical necessities for medical life support and emergency treatments by specically trained aviation medicine doctors and paramedic personnel
+<sup><a id="fn.1" href="#fnr.1">1</a></sup> Helicopter equipped with medical necessities for medical life support and emergency treatments by specially trained aviation medicine doctors and paramedic personnel
