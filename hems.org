@@ -42,17 +42,17 @@ The company need to structure the company oorganization in compliances with CAAT
 
 Company manuals typically include the following.
 
-*** Security Program Manual (SPM)
-*** Safety Management System Manual (SMSM)
-*** Quality Assurance Manual (QAM)
-*** Operations Manual (OM)
-*** Minimum Equipment List (MEL)
-*** Maintenance Program (MP)
-*** Global Reporting Format Manual (GRFM)
-*** General Maintenance Manual (GMM)
-*** Flight Dispatch Manual (FDM)
-*** Emergency Manual (EM)
-*** Aviation Security Training Program Manual (ASTP)
+- Security Program Manual (SPM)
+- Safety Management System Manual (SMSM)
+- Quality Assurance Manual (QAM)
+- Operations Manual (OM)
+- Minimum Equipment List (MEL)
+- Maintenance Program (MP)
+- Global Reporting Format Manual (GRFM)
+- General Maintenance Manual (GMM)
+- Flight Dispatch Manual (FDM)
+- Emergency Manual (EM)
+- Aviation Security Training Program Manual (ASTP)
 
 * Operational Requirements
 
