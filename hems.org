@@ -59,15 +59,19 @@ Company manuals typically include the following.
 ** Helicopters & Medical Equipment
 
 *** HEMS Medical Platform
+- Medical floor & electrical installation
+- Medical wall racking system
 
 *** Portable Airborne Medical Equippemts
+- Medical sliding bed
+- Flight crew revolving seating system  
 
 ** Heliport/Helipad & Airpoort/Airfield
 
-*** Helipad Establishment & Management
+- Helipad Establishment & Management
 
-- Helipad design & construction
-- Helipad marshaller & ground operation support
+ - Helipad design & construction
+ - Helipad marshaller & ground operation support
 
 ** HEMS Main-base & Command Center
 
