@@ -58,10 +58,16 @@ Company manuals typically include the following.
 
 ** Helicopters & Medical Equipment
 
+*** HEMS Medical Platform
+
+*** Portable Airborne Medical Equippemts
 
 ** Heliport/Helipad & Airpoort/Airfield
 
-- Helipad Establishment & Database
+*** Helipad Establishment & Management
+
+- Helipad design & construction
+- Helipad marshaller & ground operation support
 
 ** HEMS Main-base & Command Center
 
