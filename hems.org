@@ -59,7 +59,7 @@ Company manuals typically include the following.
 - Medical sliding bed
 - Flight crew revolving seating system  
 
-** Heliport/Helipad & Airpoort/Airfield
+** Heliport/Helipad & Airport/Airfield
 - Helipad Establishment & Management
  - Helipad design & construction
  - Helipad marshaller & ground operation support
