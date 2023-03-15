@@ -1,25 +1,25 @@
 
 # Table of Contents
 
-1.  [Service Area Coverage](#org28b288c)
-2.  [Scope of Services](#orgd252f8e)
-3.  [Service Sponsorship](#orgc707a32)
-4.  [Regulatory Requirements](#orgad7c18a)
-    1.  [Air Operator License (AOL)](#org8f7d0db)
-    2.  [Air Operator Certificate (AOC)](#org127b77e)
-    3.  [AOC Mandatory Manuals](#orgabd4bc0)
-5.  [Operational Requirements](#orgb72139d)
-    1.  [Helicopters & Medical Equipment](#orgef4573f)
-        1.  [HEMS Medical Platform Installation](#org7fc674b)
-        2.  [Portable Airborne Medical Equipments](#orgbf54bd7)
-    2.  [Heliport/Helipad & Airport/Airfield](#org4e3dab8)
-    3.  [HEMS Main-base & Command Center](#org079a0c7)
-    4.  [Human Resources](#orga87b8a8)
-6.  [Financial Requirement](#org5457769)
+1.  [Service Area Coverage](#org787c9ee)
+2.  [Scope of Services](#org8399e99)
+3.  [Service Sponsorship](#org040d939)
+4.  [Regulatory Requirements](#org06c8046)
+    1.  [Air Operator License (AOL)](#org48788cf)
+    2.  [Air Operator Certificate (AOC)](#org4b4d511)
+    3.  [AOC Mandatory Manuals](#org2e68b1d)
+5.  [Operational Requirements](#orgb6179ff)
+    1.  [Helicopters & Medical Equipment](#org610af7f)
+        1.  [HEMS Medical Platform Installation](#org78418e1)
+        2.  [Portable Airborne Medical Equipments](#org017711d)
+    2.  [Heliport/Helipad & Airport/Airfield](#org2369736)
+    3.  [HEMS Main-base & Command Center](#org8f5504d)
+    4.  [Human Resources](#orga1f872b)
+6.  [Financial Requirement](#orgf08be34)
 
 
 
-<a id="org28b288c"></a>
+<a id="org787c9ee"></a>
 
 # Service Area Coverage
 
@@ -28,7 +28,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
 ![img](./eec_photo1.jpg)
 
 
-<a id="orgd252f8e"></a>
+<a id="org8399e99"></a>
 
 # Scope of Services
 
@@ -39,7 +39,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
     -   Seven days a week
 
 
-<a id="orgc707a32"></a>
+<a id="org040d939"></a>
 
 # Service Sponsorship
 
@@ -50,21 +50,21 @@ About EEC of Thailand
 <https://www.eeco.or.th/en/vision-mission> 
 
 
-<a id="orgad7c18a"></a>
+<a id="org06c8046"></a>
 
 # Regulatory Requirements
 
 
-<a id="org8f7d0db"></a>
+<a id="org48788cf"></a>
 
 ## Air Operator License (AOL)
 
 An aviation business plan with clear commercial objectives with specific aircrafts or helicopter type and models including sources of acquisition and financial details are required for submission to Civil Aviation Authority of Thailand (CAAT). The business plan with specific forms will be reviewed by CAAT and proposed to the Civil Aviation Commission. The commission will scrutinized the applicants to its satisfaction before further submission to Ministry of Transport for final approval.
 
-Should the AOL be granted, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
+Should the AOL be granted, the AOL holder is obliged to source or import aircrafts into Thailand within 2 years.
 
 
-<a id="org127b77e"></a>
+<a id="org4b4d511"></a>
 
 ## Air Operator Certificate (AOC)
 
@@ -75,7 +75,7 @@ The AOL holder is required to have a designated Accountable Manager with the hig
 The company need to structure the company organization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
 
 
-<a id="orgabd4bc0"></a>
+<a id="org2e68b1d"></a>
 
 ## AOC Mandatory Manuals
 
@@ -94,17 +94,17 @@ Company manuals typically include the following.
 -   Aviation Security Training Program Manual (ASTP)
 
 
-<a id="orgb72139d"></a>
+<a id="orgb6179ff"></a>
 
 # Operational Requirements
 
 
-<a id="orgef4573f"></a>
+<a id="org610af7f"></a>
 
 ## Helicopters & Medical Equipment
 
 
-<a id="org7fc674b"></a>
+<a id="org78418e1"></a>
 
 ### HEMS Medical Platform Installation
 
@@ -112,7 +112,7 @@ Company manuals typically include the following.
 -   Medical wall racking system
 
 
-<a id="orgbf54bd7"></a>
+<a id="org017711d"></a>
 
 ### Portable Airborne Medical Equipments
 
@@ -121,7 +121,7 @@ Company manuals typically include the following.
 -   Advance Life Support medical equipments
 
 
-<a id="org4e3dab8"></a>
+<a id="org2369736"></a>
 
 ## Heliport/Helipad & Airport/Airfield
 
@@ -130,7 +130,7 @@ Company manuals typically include the following.
 -   Helipad marshalling & ground operation support
 
 
-<a id="org079a0c7"></a>
+<a id="org8f5504d"></a>
 
 ## HEMS Main-base & Command Center
 
@@ -139,7 +139,7 @@ Company manuals typically include the following.
 -   Flight Crew & Flight Dispatch Center
 
 
-<a id="orga87b8a8"></a>
+<a id="orga1f872b"></a>
 
 ## Human Resources
 
@@ -150,7 +150,7 @@ Company manuals typically include the following.
 -   General support & administration
 
 
-<a id="org5457769"></a>
+<a id="orgf08be34"></a>
 
 # Financial Requirement
 
