@@ -52,7 +52,7 @@ Company manuals typically include the following.
 ** Helicopters & Medical Equipment
 
 *** HEMS Medical Platform Installation
-- Medical floor & electrical installation
+- Medical floor & electrical system
 - Medical wall racking system
 
 *** Portable Airborne Medical Equipments
