@@ -2,16 +2,13 @@
 #+AUTHOR: Paisan Khonjumpa <pkhonjum@gmail.com>
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
 
-* Introduction
-
-
-** Service Area Coverage
+* Service Area Coverage
 
 Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
 #+ATTR_HTML: :width 450px
 [[./eec_photo1.jpg]]
 
-** Scope of Services
+* Scope of Services
 
 - Aeromedical transport & evacuation of emergency patients by means of helicopter emergency medical services[fn:HEMS:Helicopter equipped with medical necessities for medical life support and emergency treatments by speically trained aviational doctoors and paramedic personnel] from designated landing sites to recieving hospitals helipad/landing fields.
   
@@ -19,7 +16,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
   - Sunrise to sunset (approxiamtely 12 hours coverage)
   - Seven days a week
 
-** Service Sponsorship
+* Service Sponsorship
 Governmennt Contract with Eastern Economic Corridor (EEC) Office of Thailand
 
 About EEC of Thailand 
@@ -60,14 +57,13 @@ Company manuals typically include the following.
 * Operational Requirements
 
 
-** Helicopter
+* Helicopters
 
-** Medical Equipments
+* Medical Equipments
 
-** Heliport/Helipad & Airpoort/Airfield
+* Heliport/Helipad & Airpoort/Airfield
 
-
-** Human Resources
+* Human Resources
 
 - Pilots
 - Certified Flight Doctors & Flight Nurses
@@ -75,5 +71,5 @@ Company manuals typically include the following.
 - Ground Operation Crew
 
 * Financial Requirement
-s
+
 Details to be provided.
