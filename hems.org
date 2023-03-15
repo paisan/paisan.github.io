@@ -24,16 +24,16 @@ https://www.eeco.or.th/en/vision-mission
 * Regulatory Requirements
 
 ** Air Operator License (AOL)
-An aviation business plan with clear commercial objectives with specific aircrafts or helicopter type and models including sources of acquisition and financial details are required for submission to Civil Aviation Authority of Thailand (CAAT). The business with specific forms will be reviewed by CAAT and proposed to the Civil Aviation Commission. The commission will scrutinized the applicants to its satisfaction before further submission to Ministry of Transport for final approval.
+An aviation business plan with clear commercial objectives with specific aircrafts or helicopter type and models including sources of acquisition and financial details are required for submission to Civil Aviation Authority of Thailand (CAAT). The business plan with specific forms will be reviewed by CAAT and proposed to the Civil Aviation Commission. The commission will scrutinized the applicants to its satisfaction before further submission to Ministry of Transport for final approval.
 
-Should the AOL be granteed, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
+Should the AOL be granted, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
 
 ** Air Operator Certificate (AOC)
 The AOL holder has an obligation to perform the CAAT regulatory compliances in order to commercially operate its aircrafts/helicopters.
 
-The AOL holder is required to have a designated Accountable Manager with the highest company management authority and to be accooutable for any actions and ignorant in CAAT compliances, and including accooutable for criminal penalty with related governing related laws.
+The AOL holder is required to have a designated Accountable Manager with the highest company management authority and to be accoutable for any actions and ignorance in CAAT compliances, and including accoutable for criminal penalty with related governing related laws.
 
-The company need to structure the company oorganization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
+The company need to structure the company organization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
 
 ** AOC Mandatory Manuals
 Company manuals typically include the following.
@@ -59,11 +59,12 @@ Company manuals typically include the following.
 *** Portable Airborne Medical Equipments
 - Medical sliding bed
 - Flight crew revolving seating system  
+- Advance Life Support medical equipments
 
 ** Heliport/Helipad & Airport/Airfield
 - Helipad Establishment & Management
- - Helipad design & construction
- - Helipad marshalling & ground operation support
+- Helipad design & construction
+- Helipad marshalling & ground operation support
 
 ** HEMS Main-base & Command Center
 - Helicopter Hangarage & Maintenance
