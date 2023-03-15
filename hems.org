@@ -1,0 +1,76 @@
+#+TITLE: Helicopter Emergency Medical Services (HEMS) Project
+#+AUTHOR: Paisan Khonjumpa <pkhonjum@gmail.com>
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
+
+* Introduction
+
+
+** Service Area Coverage
+
+Eastern Economic Corridor (EEC) Special Economic Zone
+
+** Scope of Services
+
+- Aeromedical transport & evacuation of emergency patients by means of helicopter emergency medical services[fn:HEMS:Helicopter equipped with medical necessities for medical life support and emergency treatments by speically trained aviational doctoors and paramedic personnel] from designated landing sites to recieving hospitals helipad/landing fields.
+  
+- Availability:
+  - Sunrise to sunset (approxiamtely 12 hours coverage)
+  - Seven days a week
+
+** Service Sponsorship
+Governmennt Contract with EEC Office
+
+* Regulatory Requirements
+
+** Air Operator License (AOL)
+
+An aviation business plan with clear commercial objectives with specific aircrafts or helicopter type and models including sources of acquisition and financial details are required for submission to Civil Aviation Authority of Thailand (CAAT). The business with specific forms will be reviewed by CAAT and proposed to the Civil Aviation Commission. The commission will scrutinized the applicants to its satisfaction before further submission to Ministry of Transport for final approval.
+
+Should the AOL be granteed, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
+
+** Air Operator Certificate (AOC)
+
+The AOL holder has an obligation to perform the CAAT regulatory compliances in order to commercially operate its aircrafts/helicopters.
+
+The AOL holder is required to have a designated Accountable Manager with the highest company management authority and to be accooutable for any actions and ignorant in CAAT compliances, and including accooutable for criminal penalty with related governing related laws.
+
+The company need to structure the company oorganization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
+
+** AOC Mandatory Manuals
+
+Company manuals typically include the following.
+
+- Security Program Manual (SPM)
+- Safety Management System Manual (SMSM)
+- Quality Assurance Manual (QAM)
+- Operations Manual (OM)
+- Minimum Equipment List (MEL)
+- Maintenance Program (MP)
+- Global Reporting Format Manual (GRFM)- General Maintenance Manual (GMM)
+- Flight Dispatch Manual (FDM)
+- Emergency Manual (EM)
+- Aviation Security Training Program Manual (ASTP)
+
+* Operational Requirements
+
+
+** Helicopter
+
+** Medical Equipments
+
+** Heliport/Helipad & Airpoort/Airfield
+
+
+** Human Resources
+
+*** Pilots
+
+*** Flight Doctors & Flight Nurses
+
+*** Maintenance Engineers
+
+*** Operational Crew
+
+* Financial Requirement
+s
+Details to be provided.
