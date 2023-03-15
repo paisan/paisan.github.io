@@ -63,7 +63,7 @@ Company manuals typically include the following.
 ** Heliport/Helipad & Airport/Airfield
 - Helipad Establishment & Management
  - Helipad design & construction
- - Helipad marshaller & ground operation support
+ - Helipad marshalling & ground operation support
 
 ** HEMS Main-base & Command Center
 - Helicopter Hangarage & Maintenance
