@@ -1,25 +1,25 @@
 
 # Table of Contents
 
-1.  [Service Area Coverage](#orga324f28)
-2.  [Scope of Services](#orgbe9acf4)
-3.  [Service Sponsorship](#org84f2364)
-4.  [Regulatory Requirements](#orgd58c094)
-    1.  [Air Operator License (AOL)](#org031f169)
-    2.  [Air Operator Certificate (AOC)](#org9e482b8)
-    3.  [AOC Mandatory Manuals](#org6bffc35)
-5.  [Operational Requirements](#org257dab4)
-    1.  [Helicopters & Medical Equipment](#org500270a)
-        1.  [HEMS Medical Platform Installation](#org524d6fe)
-        2.  [Portable Airborne Medical Equipments](#org2766052)
-    2.  [Heliport/Helipad & Airport/Airfield](#org02f625d)
-    3.  [HEMS Main-base & Command Center](#org32eee94)
-    4.  [Human Resources](#orgd1242b1)
-6.  [Financial Requirement](#org71b303d)
+1.  [Service Area Coverage](#org96e3d55)
+2.  [Scope of Services](#org963b6ca)
+3.  [Service Sponsorship](#orgb3d59e1)
+4.  [Regulatory Requirements](#org4a00021)
+    1.  [Air Operator License (AOL)](#org7ab68ed)
+    2.  [Air Operator Certificate (AOC)](#org81eb644)
+    3.  [AOC Mandatory Manuals](#org33f05a1)
+5.  [Operational Requirements](#org6e61bfb)
+    1.  [Helicopters & Medical Equipment](#orga1b8004)
+        1.  [HEMS Medical Platform Installation](#orgae560ba)
+        2.  [Portable Airborne Medical Equipments](#orga4c17a3)
+    2.  [Heliport/Helipad & Airport/Airfield](#orgfdb33f0)
+    3.  [HEMS Main-base & Command Center](#orgfd37af0)
+    4.  [Human Resources](#org46b2580)
+6.  [Financial Requirement](#org233a247)
 
 
 
-<a id="orga324f28"></a>
+<a id="org96e3d55"></a>
 
 # Service Area Coverage
 
@@ -28,7 +28,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
 ![img](./eec_photo1.jpg)
 
 
-<a id="orgbe9acf4"></a>
+<a id="org963b6ca"></a>
 
 # Scope of Services
 
@@ -39,7 +39,7 @@ Eastern Economic Corridor (EEC) Special Economic Zone, Thailand
     -   Seven days a week
 
 
-<a id="org84f2364"></a>
+<a id="orgb3d59e1"></a>
 
 # Service Sponsorship
 
@@ -50,12 +50,12 @@ About EEC of Thailand
 <https://www.eeco.or.th/en/vision-mission> 
 
 
-<a id="orgd58c094"></a>
+<a id="org4a00021"></a>
 
 # Regulatory Requirements
 
 
-<a id="org031f169"></a>
+<a id="org7ab68ed"></a>
 
 ## Air Operator License (AOL)
 
@@ -64,7 +64,7 @@ An aviation business plan with clear commercial objectives with specific aircraf
 Should the AOL be granteed, the AOL holder is obliged to soource or import aircrafts into Thailand within 2 years.
 
 
-<a id="org9e482b8"></a>
+<a id="org81eb644"></a>
 
 ## Air Operator Certificate (AOC)
 
@@ -75,7 +75,7 @@ The AOL holder is required to have a designated Accountable Manager with the hig
 The company need to structure the company oorganization in compliances with CAAT regulations for aviation safety and standards. The company need to develop series of company manuals which required CAAT approval and series of periodic audit and random surveillance.
 
 
-<a id="org6bffc35"></a>
+<a id="org33f05a1"></a>
 
 ## AOC Mandatory Manuals
 
@@ -94,17 +94,17 @@ Company manuals typically include the following.
 -   Aviation Security Training Program Manual (ASTP)
 
 
-<a id="org257dab4"></a>
+<a id="org6e61bfb"></a>
 
 # Operational Requirements
 
 
-<a id="org500270a"></a>
+<a id="orga1b8004"></a>
 
 ## Helicopters & Medical Equipment
 
 
-<a id="org524d6fe"></a>
+<a id="orgae560ba"></a>
 
 ### HEMS Medical Platform Installation
 
@@ -112,7 +112,7 @@ Company manuals typically include the following.
 -   Medical wall racking system
 
 
-<a id="org2766052"></a>
+<a id="orga4c17a3"></a>
 
 ### Portable Airborne Medical Equipments
 
@@ -120,7 +120,7 @@ Company manuals typically include the following.
 -   Flight crew revolving seating system
 
 
-<a id="org02f625d"></a>
+<a id="orgfdb33f0"></a>
 
 ## Heliport/Helipad & Airport/Airfield
 
@@ -129,12 +129,16 @@ Company manuals typically include the following.
     -   Helipad marshaller & ground operation support
 
 
-<a id="org32eee94"></a>
+<a id="orgfd37af0"></a>
 
 ## HEMS Main-base & Command Center
 
+-   Helicopter Hangarage & Maintenance
+-   HEMS Alarm & Coordination Center
+-   Flight Crew & Flight Dispatch Center
 
-<a id="orgd1242b1"></a>
+
+<a id="org46b2580"></a>
 
 ## Human Resources
 
@@ -144,7 +148,7 @@ Company manuals typically include the following.
 -   Ground Operation Crew
 
 
-<a id="org71b303d"></a>
+<a id="org233a247"></a>
 
 # Financial Requirement
 

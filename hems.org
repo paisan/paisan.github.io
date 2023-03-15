@@ -66,6 +66,9 @@ Company manuals typically include the following.
  - Helipad marshaller & ground operation support
 
 ** HEMS Main-base & Command Center
+- Helicopter Hangarage & Maintenance
+- HEMS Alarm & Coordination Center
+- Flight Crew & Flight Dispatch Center
 
 ** Human Resources
 - Pilots
