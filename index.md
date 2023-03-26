@@ -1,21 +1,21 @@
 
 # Table of Contents
 
-1.  [Bio Data](#org1be0648)
-2.  [Educations](#orgb7f3704)
-3.  [Work Experiences](#org5a88a48)
-4.  [Skills & Experiences](#orga3c182f)
-    1.  [Programming (Mostly on Unix & MacOS):](#org3709029)
-    2.  [Technical Support and Sales & Marketing Management Experiences:](#orgfd71fc9)
-    3.  [Helicopter Sales & Technical/Operational Logistics Management:](#org8b6ec34)
-    4.  [Aeromedical Transport & Emergency Medical Services:](#orgf52d852)
-    5.  [Aircrafts Management:](#org94e7def)
-5.  [Contact Address](#orgbb80ad5)
+1.  [Bio Data](#org4fe2991)
+2.  [Educations](#org07a6fc1)
+3.  [Work Experiences](#org4c8eb4b)
+4.  [Skills & Experiences](#orgc4ecd8d)
+    1.  [Programming (Mostly on Unix & MacOS):](#org2157f04)
+    2.  [Technical Support and Sales & Marketing Management Experiences:](#orgb1d3288)
+    3.  [Helicopter Sales & Technical/Operational Logistics Management:](#orga22c8c2)
+    4.  [Aeromedical Transport & Emergency Medical Services:](#orgf797d13)
+    5.  [Aircrafts Management:](#orga7eb8c0)
+5.  [Contact Address](#orgfd5dd83)
 
 ![img](./paisan_photo.png)
 
 
-<a id="org1be0648"></a>
+<a id="org4fe2991"></a>
 
 # Bio Data
 
@@ -60,7 +60,7 @@
 </table>
 
 
-<a id="orgb7f3704"></a>
+<a id="org07a6fc1"></a>
 
 # Educations
 
@@ -147,7 +147,7 @@
 </table>
 
 
-<a id="org5a88a48"></a>
+<a id="org4c8eb4b"></a>
 
 # Work Experiences
 
@@ -342,12 +342,12 @@
 </table>
 
 
-<a id="orga3c182f"></a>
+<a id="orgc4ecd8d"></a>
 
 # Skills & Experiences
 
 
-<a id="org3709029"></a>
+<a id="org2157f04"></a>
 
 ## Programming (Mostly on Unix & MacOS):
 
@@ -358,7 +358,7 @@
 -   LaTeX
 
 
-<a id="orgfd71fc9"></a>
+<a id="orgb1d3288"></a>
 
 ## Technical Support and Sales & Marketing Management Experiences:
 
@@ -371,7 +371,7 @@
     -   Corporate healthcare services; annual medical checkup, pre-employment screening, company OPD/IPD managed care/pricing, return-to-work examination, narcotics & drug abuses, health promotion and office wellness programs including vitality partnerships with insurances
 
 
-<a id="org8b6ec34"></a>
+<a id="orga22c8c2"></a>
 
 ## Helicopter Sales & Technical/Operational Logistics Management:
 
@@ -379,7 +379,7 @@
 -   Civilian: Airbus (Eurocopter) EC145s
 
 
-<a id="orgf52d852"></a>
+<a id="orgf797d13"></a>
 
 ## Aeromedical Transport & Emergency Medical Services:
 
@@ -387,7 +387,7 @@
 -   Experienced with EURAMI & CAMTS Accreditation & CAAT Compliances
 
 
-<a id="org94e7def"></a>
+<a id="orga7eb8c0"></a>
 
 ## Aircrafts Management:
 
@@ -396,7 +396,7 @@
     Was responsible as Accountable Manager for AOC<sup><a id="fnr.4" class="footref" href="#fn.4">4</a></sup> AOL<sup><a id="fnr.5" class="footref" href="#fn.5">5</a></sup>
 
 
-<a id="orgbb80ad5"></a>
+<a id="orgfd5dd83"></a>
 
 # Contact Address
 
