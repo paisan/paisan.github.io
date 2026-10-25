@@ -65,6 +65,7 @@
 |			| - Board of Director Member |
 
 
+
 * Skills & Experiences
 
 ** Programming (Mostly on Unix & MacOS): 
@@ -98,16 +99,5 @@
 -  Familiar with Civil Aviation Authority of Thailand Re-Certification Regulations[fn:AOC-R:AOC-R is highy stringent regulatory requirement for all air operators in Thailand] 
   Was responsible as Accountable Manager for AOC[fn:AOC: AOC abbreviates for Air Operator Certificate] AOL[fn:AOL: AOL abbreviates for Air Operator License License Holder]
   
-* Contact Address
-
-*Permanent & Current*
-
-152/75 Similan Reef Village, \\
-Pattana Chonabot 4 Road, \\ 
-Klong Song Ton Noon Subdistrict, \\
-Ladkrabang District, \\ 
-Bangkok 10520 Thailand \\  
-
-Mobile Phone number: +66 (0)81 889 3482 
-
+* Contact *
 E-mail:	pkhonjum@gmail.com 
