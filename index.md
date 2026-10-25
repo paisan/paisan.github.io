@@ -400,16 +400,6 @@
 
 # Contact Address
 
-**Permanent & Current**
-
-152/75 Similan Reef Village,   
-Pattana Chonabot 4 Road,   
-Klong Song Ton Noon Subdistrict,   
-Ladkrabang District,   
-Bangkok 10520 Thailand   
-
-Mobile Phone number: +66 (0)81 889 3482 
-
 E-mail:	pkhonjum@gmail.com 
 
 
