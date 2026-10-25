@@ -28,10 +28,6 @@
 <col  class="org-left" />
 </colgroup>
 <tbody>
-<tr>
-<td class="org-left">Date of Birth:</td>
-<td class="org-left">27th January 1972</td>
-</tr>
 
 
 <tr>
